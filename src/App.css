@@ -1,0 +1,12 @@
+.App {
+	width: 80%;
+	position: fixed;
+	overflow: hidden;
+	background: #f9f9f9;
+	top: 30px;
+	left: 10%;
+	bottom: 30px;
+	border-radius: 1px;
+	box-shadow: 0 1px 5px rgba(0,0,0,.3);
+	font-size: 14px;
+}
